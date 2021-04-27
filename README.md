@@ -7,6 +7,3 @@
 
 
 - 🎓 Studying computer science at the University of Mons, Belgium. Feel free to <a href="mailto:ryan.byloos@posteo.net">reach me</a>.
-
-##### Tech stack
-<img src="https://img.shields.io/badge/Python-black?logo=python"> <img src="https://img.shields.io/badge/Java-black?logo=java"> <img src="https://img.shields.io/badge/TypeScript-black?logo=TypeScript"> <img src="https://img.shields.io/badge/Git-black?logo=git"> 
